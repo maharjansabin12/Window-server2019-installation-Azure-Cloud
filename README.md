@@ -1,14 +1,9 @@
 ## Window server 2019 installation on Azure cloud step by step guide.
 
-## <h3>1. Sign in to Azure Portal</h3>
-    Go to https://portal.azure.com" and sign in with your Azure account credentials.
+## <h3>1. Click on <a href="https://portal.azure.com">Azure Portal</a> to sign up with all your credentials.</h3>
 
-## <h3>2. Create a Virtual Machine</h3>
-
-    Click on "Create a resource" in the upper left corner.
-    
-
-<h3>Dashboard</h3>
+## <h3>2. Create a Virtual Machine by selecting "Create a resource"</h3>    
+<h3>Dashboard:</h3>
 <img src="https://github.com/maharjansabin12/win-server2022-installation-AzureCloud/assets/161717201/7684b35e-3527-4913-a8f5-e05838059b54" alt="dashboard" width="80%" height="80%"> 
 
 ## <h3>3. Now select "Windows Server 2019 Datacenter" and Click "Create" to begin configuring the virtual machine.</h3>
