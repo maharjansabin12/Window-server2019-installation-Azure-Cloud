@@ -1,4 +1,4 @@
-## Window server 2019 installation on Azure cloud step-by-step guide.
+## Window Server 2019 installation on Azure cloud step-by-step guide.
 
 ## <h3>1. Click on <a href="https://portal.azure.com">Azure Portal</a> to sign up with all your credentials.</h3>
 
